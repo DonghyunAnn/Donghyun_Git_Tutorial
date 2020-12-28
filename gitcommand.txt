@@ -1,6 +1,6 @@
-git¿¡¼­´Â pullÀÌ pushº¸´Ù ¼±Çà
-git pull origin master(ÁöÁ¤µÈ repository¿¡¼­ ÇØ´ç Æú´õ·Î ²ø¾î¿À´Â Ä¿¸Çµå)
-git status (ÇöÀç git°ú ½ÌÅ©»óÅÂ Ã¼Å©)
-git add . (º¯°æµÈ ÆÄÀÏ ¸ğµÎ Æ®·¢Å·)
-git commit -m "message" (º¯°æ»çÇ× commit ´Ş ¼ö ÀÖ´Â ¸í·É¾î)
-git push origin +master
+gitì—ì„œëŠ” pullì´ pushë³´ë‹¤ ì„ í–‰
+git pull origin master(ì§€ì •ëœ repositoryì—ì„œ í•´ë‹¹ í´ë”ë¡œ ëŒì–´ì˜¤ëŠ” ì»¤ë§¨ë“œ)
+git status (í˜„ì¬ gitê³¼ ì‹±í¬ìƒíƒœ ì²´í¬)
+git add . (ë³€ê²½ëœ íŒŒì¼ ëª¨ë‘ íŠ¸ë™í‚¹)
+git commit -m "message" (ë³€ê²½ì‚¬í•­ commit ë‹¬ ìˆ˜ ìˆëŠ” ëª…ë ¹ì–´)
+git push origin master
